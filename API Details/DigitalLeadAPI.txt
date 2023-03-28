@@ -1,0 +1,14 @@
+/*
+for adding
+URL : http://127.12.23.45:8000/newleads/add
+Method : POST
+required field : email
+*/
+**************************************************
+
+/*
+for fetching
+URL : http://127.12.23.45:8000/newleads/all
+Method : GET
+required field : None
+*/

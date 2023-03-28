@@ -1,0 +1,39 @@
+/*
+for adding
+URL : http://127.12.23.45:8000/products/add
+Method : POST
+required field : name, price
+*/
+**********************************************
+
+/*
+for fetching all
+URL : http://127.12.23.45:8000/products/all
+Method : GET
+required field : None
+*/
+**********************************************
+
+/*
+for fetching single
+URL : http://127.12.23.45:8000/products/:id
+Method : GET
+required field : id
+*/
+**********************************************
+
+/*
+for updating
+URL : http://127.12.23.45:8000/products/update/:id
+Method : PUT
+required field : id, name, price
+*/
+*****************************************************
+
+/*
+for deleting
+URL : http://127.12.23.45:8000/products/delete/:id
+Method : DELETE
+required field : id
+*/
+*****************************************************

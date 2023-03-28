@@ -1,0 +1,39 @@
+/*
+for adding a new Lead
+URL : http://127.12.23.45:8000/leads/add
+Method : POST
+required field : salutation, name, company, email, mobile
+*/
+************************************************************
+
+/*
+for getting all Leads
+URL : http://127.12.23.45:8000/leads/all
+Method : GET
+required field : none
+*/
+*************************************************************
+
+/*
+for getting a single Lead
+URL : http://127.12.23.45:8000/leads/:id
+Method : GET
+required field : id
+*/
+*************************************************************
+
+/*
+for updating a Lead
+URL : http://127.12.23.45:8000/leads/update/:id
+Method : PUT
+required field : id, salutation, name, company, email, mobile
+*/
+*************************************************************
+
+/*
+for deleting a Lead
+URL : http://127.12.23.45:8000/leads/delete/:id
+Method : DELETE
+required field : id
+*/
+*************************************************************
